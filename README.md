@@ -7,4 +7,10 @@ Este aplicativo foi desenvolvido na Semana OmniStack 8 feita pela [Rocketseat](h
 
 ## Preview
 
-![Preview](preview.gif)
+### Desktop
+
+![Preview](desktop_preview.png)
+
+### App
+
+<img width="240" src="app_preview.png"/>
